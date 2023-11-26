@@ -1,0 +1,188 @@
+body{
+    background: var(--background-primary, #13131c);
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    gap: 150px;
+    width: 1300px;
+    height: 100px;
+    border-radius: 5px;
+    border: 4px solid var(--accent-brand, #6966FF);
+    margin: 0 auto;
+}
+.home-h1{
+    color: white;
+}
+.item{
+    list-style: none;
+    color: white;
+}
+.item1{
+    text-decoration: none;
+    color: white;
+}
+.item2{
+    text-decoration: none;
+    color: white;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 700px;
+    height: 200px;
+    margin: 0 auto;
+    background: black;
+    border: 3px solid var(--accent-brand, #6966FF);
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.form2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 700px;
+    height: 100px;
+    margin: 0 auto;
+    background: black;
+    border: 3px solid var(--accent-brand, #6966FF);
+    margin-top: 50px;
+    border-radius: 15px;
+
+}
+.delett{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 500px;
+    height: 60px;
+    background: black;
+    border: 3px solid var(--accent-brand, #6966FF);
+    color: white;
+    border-radius: 10px;     
+    margin-top: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.btn1{
+    width: 130px;
+    height: 50px;
+    border-radius: 30px;
+    background: black;
+    color: white;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.btnn1{
+    color: white;
+    text-decoration: none;
+}
+.btn2{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background: black;
+    color: white;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.btn3{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background: black;
+    color: white;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.btn4{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background: black;
+    color: white;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.btn5{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background: black;
+    color: white;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+input{
+    width: 180px;
+    height: 30px;
+    border-radius: 5px; 
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.login-h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 100px;
+    border-radius: 10px;
+    background: black;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 3px solid var(--accent-brand, #6966FF);
+    color: white;   
+}
+
+.Erorr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    border: 3px solid red;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.Erorr-h1{
+    color: red;
+}
+.Home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background: black;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.About{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background: black;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.About-h1{
+    color: white;
+}
+.Service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background: black;
+    border: 3px solid var(--accent-brand, #6966FF);
+}
+.Service-h1{
+    color: white;
+}
